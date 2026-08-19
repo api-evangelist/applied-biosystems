@@ -34,7 +34,7 @@ x-tier-reason: portfolio-lead
 x-note: >-
   Applied Biosystems is a brand of Thermo Fisher Scientific; no standalone public API / OpenAPI /
   developer program exists. No API artifacts were fabricated. Identity-only enrichment.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
