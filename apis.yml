@@ -47,7 +47,7 @@ x-note: >-
   developer program exists. No API artifacts were fabricated. Identity-only enrichment.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 tags:
 - Company
 - Life Sciences
@@ -59,6 +59,8 @@ tags:
 - Thermo Fisher Scientific
 apis: []
 common:
+- url: https://www.thermofisher.com/blog/
+  type: Blog
 - type: Website
   url: https://www.thermofisher.com/us/en/home/brands/applied-biosystems.html
 maintainers:
