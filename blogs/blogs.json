@@ -3,12 +3,16 @@
   "feeds": [
     {
       "source": "https://www.thermofisher.com/blog/",
+      "error": "HTTPError"
+    },
+    {
+      "source": "https://www.thermofisher.com/blog/feed/",
       "feed_url": "https://www.thermofisher.com/blog/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-10T13:15:00Z"
+  "fetched": "2026-10-17T14:53:57Z"
 }
