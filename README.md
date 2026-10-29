@@ -64,6 +64,70 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Applied Biosystems is a company surfaced as a portfolio company of mayfield and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Applied Biosystems is a life-sciences instrumentation brand now part of Thermo Fisher Scientific, known for genetic analysis and applied genomics platforms including real-time and end-point PCR (QuantStudio, StepOne, ViiA 7, ProFlex), Sanger capillary-electrophoresis sequencing (SeqStudio, 3500/3730 Genetic Analyzers), and mass spectrometry. Its software surface is delivered through Thermo Fisher Connect, a cloud platform for storing, analyzing, and sharing instrument data with Applied Biosystems qPCR and Sanger secondary-analysis modules, the Cloud Connect Utility for uploading data from non-cloud-enabled instruments, and the Instrument Connect remote-monitoring app. Applied Biosystems does not publish a standalone public developer API, OpenAPI specification, or SDK program; its programmatic footprint is instrument-connectivity and cloud analysis rather than a hosted web API. This profile was surfaced as a VC-portfolio lead and enriched with verified company identity only.
 
-Backed by: mayfield
+**Areas:** Company · Life Sciences · Genomics · PCR · Sequencing · Laboratory Instruments · Scientific Software · Thermo Fisher Scientific
+
+## Applied Biosystems on APIs.io
+
+Everything profiled for Applied Biosystems is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/applied-biosystems/](https://apis.io/providers/applied-biosystems/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.thermofisher.com/us/en/home/brands/applied-biosystems.html)
+- [Blog](https://www.thermofisher.com/blog/)
+
+## API Evangelist rating
+
+**Kin Score 3.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/applied-biosystems/](https://apis.io/providers/applied-biosystems/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Applied Biosystems: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/applied-biosystems/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
